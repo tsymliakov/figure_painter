@@ -1,0 +1,17 @@
+{
+				  "Triangle" : { 
+									"Shape":    [
+													"Point" : { "X" : 10,
+																"Y" : 15
+															  },
+													"Point" : { "X" : 20,
+																"Y" : 35
+															  },
+													"Point" : { "X" : 80,
+																"Y" : 45
+															  }
+								
+                                                ],
+									"Color" : "green"
+				  }	
+}
